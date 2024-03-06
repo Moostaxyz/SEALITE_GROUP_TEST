@@ -39,5 +39,6 @@ export async function alienToInt(s: string): Promise<number> {
     }
   }
 
+  console.log("input: ", s, "output: ", result);
   return result;
 }
