@@ -1,4 +1,4 @@
-export interface Symbol {
+export interface IAlienSymbol {
   A: string;
   B: string;
   Z: string;
